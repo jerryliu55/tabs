@@ -1,5 +1,7 @@
 reference: https://www.youtube.com/watch?v=06P_DZOnF_Q
 
+* taken from Andrew Foy's cover of the chainsmokers song
+
 tuning: FADGBE
 
 intro
